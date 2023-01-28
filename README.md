@@ -1,5 +1,5 @@
 # BINSverify
-Verificador de BINS bancarios y números de tarjetas de crédito
+Verificador de BINS bancarios y números de tarjetas de crédito y debito.
 
 Este es una herramienta escrita en python que te permitirá saber si las tarjetas obtenidas a través de un BIN son válidas o no.
 Para verificarlas usa el Algoritmo de Luhn.
